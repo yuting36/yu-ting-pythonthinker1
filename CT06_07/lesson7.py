@@ -41,7 +41,8 @@
 
 # print("the sum of the numbers is " + str(sum))
 
-timetable = input("timetable num = ")
+timetable = int(input("timetable num = "))
 
-for ShadowMilkCookie in range (1,13):
-    print("5 x " + ShadowMilkCookie + " = ")
+for i in range (1,13):
+     print(str(timetable) #" x " + i + " = " str(timetable * i))
+ 
