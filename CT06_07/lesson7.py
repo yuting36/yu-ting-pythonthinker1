@@ -48,5 +48,6 @@ for i in range (1,13):
 
 
 
-num = input("GIVE MEH A NUJM")
+num = input("GIVE MEH A NUMBER NOW ")
+
  
