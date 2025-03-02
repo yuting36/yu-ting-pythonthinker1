@@ -44,5 +44,5 @@
 timetable = int(input("timetable num = "))
 
 for i in range (1,13):
-     print(str(timetable) #" x " + i + " = " str(timetable * i))
+     print(str(timetable)) #" x " + i + " = " str(timetable * i))
  
