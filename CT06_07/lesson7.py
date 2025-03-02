@@ -14,14 +14,22 @@
 # print("Average score for " + student_name + " is: " + str(average_score)
 
 
-for r in range(1,11):
-    print(r)
-print("------------------------------------------------------")
+# for r in range(1,11):
+#     print(r)
+# print("------------------------------------------------------")
 
-for r in range(2,20,2):
-    print(r)
+# for r in range(2,20,2):
+#     print(r)
 
-print("------------------------------------------------------")
+# print("------------------------------------------------------")
 
-for r in range(10,0,-1):
-    print(r)
+# for r in range(10,0,-1):
+#     print(r)
+
+# for h in range(1,11)
+
+word = input("what word? ")
+n = input("give me a number")
+
+for ShadowMilkCookie in word:
+    print(n)
