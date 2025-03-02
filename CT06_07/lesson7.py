@@ -38,3 +38,5 @@ sum = 0
 
 for hi in range(1,6):
     sum = int(input("num = ")) + sum
+
+print(sum)
