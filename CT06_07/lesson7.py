@@ -41,4 +41,7 @@
 
 # print("the sum of the numbers is " + str(sum))
 
-timetable = input("timetable num")
+timetable = input("timetable num = ")
+
+for ShadowMilkCookie in range (1,13):
+    print
