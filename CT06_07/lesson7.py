@@ -50,4 +50,7 @@ for i in range (1,13):
 
 num = input("GIVE MEH A NUMBER NOW ")
 
+for i in range(0,num):
+     pri
+
  
