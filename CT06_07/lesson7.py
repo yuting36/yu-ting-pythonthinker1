@@ -41,4 +41,4 @@
 
 # print("the sum of the numbers is " + str(sum))
 
-timetable = input(timeta)
+timetable = input("timetable num")
