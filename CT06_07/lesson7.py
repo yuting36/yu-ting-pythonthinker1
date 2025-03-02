@@ -28,8 +28,9 @@
 
 # for h in range(1,11)
 
-word = input("what word? ")
-n = input("give me a number")
+# word = input("what word? ")
+# n = input("give me a number")
 
-for ShadowMilkCookie in range(int(n)):
-    print(word)
+# for ShadowMilkCookie in range(int(n)):
+#     print(word)
+
