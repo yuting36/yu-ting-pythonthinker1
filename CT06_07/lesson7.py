@@ -44,4 +44,4 @@
 timetable = input("timetable num = ")
 
 for ShadowMilkCookie in range (1,13):
-    print("5 x")
+    print("5 x " + ShadowMilkCookie )
