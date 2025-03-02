@@ -41,16 +41,16 @@
 
 # print("the sum of the numbers is " + str(sum))
 
-timetable = int(input("timetable num = "))
+# timetable = int(input("timetable num = "))
 
-for i in range (1,13):
-     print(str(timetable) + " x " + str(i) + " = " + str(timetable * i))
+# for i in range (1,13):
+#      print(str(timetable) + " x " + str(i) + " = " + str(timetable * i))
 
 
 
 num = input("GIVE MEH A NUMBER NOW ")
 
 for i in range(0,num):
-     print(i * )
+     print(i * i)
 
  
