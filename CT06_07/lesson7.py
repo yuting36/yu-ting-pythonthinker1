@@ -31,5 +31,5 @@
 word = input("what word? ")
 n = input("give me a number")
 
-for ShadowMilkCookie in word:
-    print(n)
+for ShadowMilkCookie in n:
+    print(word)
