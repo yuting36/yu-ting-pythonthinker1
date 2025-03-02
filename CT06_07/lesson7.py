@@ -34,3 +34,7 @@
 # for ShadowMilkCookie in range(int(n)):
 #     print(word)
 
+sum = 0
+
+for hi in range(1,6):
+    sum
