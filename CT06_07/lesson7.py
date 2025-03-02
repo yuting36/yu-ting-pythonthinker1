@@ -34,9 +34,11 @@
 # for ShadowMilkCookie in range(int(n)):
 #     print(word)
 
-sum = 0
+# sum = 0
 
-for hi in range(1,6):
-    sum = int(input("num = ")) + sum
+# for hi in range(1,6):
+#     sum = int(input("num = ")) + sum
 
-print("the sum of the numbers is " + str(sum))
+# print("the sum of the numbers is " + str(sum))
+
+
