@@ -50,7 +50,7 @@
 
 num = input("GIVE MEH A NUMBER NOW ")
 
-for i in range(0,num):
+for i in range(0,int(num)):
      print(i * i)
 
  
