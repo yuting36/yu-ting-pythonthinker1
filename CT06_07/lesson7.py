@@ -56,5 +56,5 @@
 
 layers = int(input("how many layers on the pyramid "))
 
-for i in range(1, layers) :
+for i in range(1, layers , 1) :
     print(i * i)
