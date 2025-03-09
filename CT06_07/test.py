@@ -9,3 +9,4 @@ print("Nice to meet you, " + name + "!") # greet the user
 start = input("give me a start number ")
 stop = input("give me a stop number ")
 step = input("give me a step number ")
+
