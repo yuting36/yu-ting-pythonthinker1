@@ -48,9 +48,11 @@
 
 
 
-num = input("GIVE MEH A NUMBER NOW ")
+# num = input("GIVE MEH A NUMBER NOW ")
 
-for i in range(0,int(num)):
-     print(i * i)
+# for i in range(0,int(num)):
+#      print(i * i)
+
+
 
  
