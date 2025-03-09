@@ -10,5 +10,5 @@ start = int(input("give me a start number "))
 stop = int(input("give me a stop number "))
 increment = int(input("give me a increment "))
 
-for i in range(start, stop, increment): #
+for i in range(start, stop, increment): # the 
     print(i)
