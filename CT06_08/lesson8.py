@@ -34,4 +34,4 @@ import random
 num = random.randint(1,10)
 ans = int(input("Guess a number from 1 - 10: "))
 if ans == num:
-    print ("Good job ")
+    print ("Good job you got it :)")
