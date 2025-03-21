@@ -14,12 +14,12 @@ print("Hello from lesson 8")
 #     print ("false")
 
 
-import random
-num1 = random.randint(1,101)
-start  = int(input("start number? "))
-end = int(input("end number? "))
-print ("start number is " +)
-print( start <= num1 <= end )
+# import random
+# num1 = random.randint(1,101)
+# start  = int(input("start number? "))
+# end = int(input("end number? "))
+# print ("start number is " +)
+# print( start <= num1 <= end )
 
 num = input("give me a number: ")
 print (num % 2)
