@@ -22,4 +22,4 @@ print("Hello from lesson 8")
 # print( start <= num1 <= end )
 
 num = input("give me a number: ")
-print (num % 2)
+print (int(num) % 2)
