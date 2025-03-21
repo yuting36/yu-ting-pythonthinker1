@@ -25,13 +25,15 @@ print("Hello from lesson 8")
 # num = int(input("give me a number: "))
 # print ( num % 2 == 0 )
 
-num1 = int(input("first number? "))
-num2 = int(input("second number? "))
+# num1 = int(input("first number? "))
+# num2 = int(input("second number? "))
 
-print (num1 / num2 == 0 )
+# print (num1 / num2 == 0 )
 
 import random
 num = random.randint(1,10)
 ans = int(input("Guess a number from 1 - 10: "))
 if ans == num:
     print ("Good job you got it :)")
+else:
+      print("Awh you did not get it correct")
