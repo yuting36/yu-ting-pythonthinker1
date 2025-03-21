@@ -16,6 +16,6 @@ print( ans == hidden_ans )
 
 import random
 num1 = random.randint(1,50)
-start  = int(input(question))
-hidden_ans = num1 + num2
+start  = int(input("start number? "))
+end = int(input("start number? "))
 print( ans == hidden_ans )
