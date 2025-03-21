@@ -25,4 +25,5 @@ print("Hello from lesson 8")
 num = int(input("give me a number: "))
 print ( num % 2 == 0 )
 
-
+num1 = random.randint(1,50)
+num2 = random.randint(1,50)
