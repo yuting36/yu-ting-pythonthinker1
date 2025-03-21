@@ -21,9 +21,7 @@ print("Hello from lesson 8")
 # print ("start number is " +)
 # print( start <= num1 <= end )
 
-num = int(input("give me a number: "))
-r = num % 2
-print ( r <= 0 )
+# 4
 
 num = int(input("give me a number: "))
 print ( num % 2 <= 0 )
