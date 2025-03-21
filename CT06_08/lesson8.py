@@ -25,5 +25,5 @@ print("Hello from lesson 8")
 num = int(input("give me a number: "))
 print ( num % 2 == 0 )
 
-num1 = int(input("start number? "))
+num1 = int(input("first number? "))
 num2 = int(input("start number? "))
