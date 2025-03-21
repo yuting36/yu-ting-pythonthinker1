@@ -18,4 +18,5 @@ import random
 num1 = random.randint(1,101)
 start  = int(input("start number? "))
 end = int(input("end number? "))
+print (star)
 print( start <= num1 <= end )
