@@ -18,4 +18,4 @@ import random
 num1 = random.randint(1,50)
 start  = int(input("start number? "))
 end = int(input("end number? "))
-print( ans == hidden_ans )
+print( ans == end)
