@@ -31,3 +31,4 @@ num2 = int(input("second number? "))
 print (num1 / num2 == 0 )
 
 import random
+num = random.randint
