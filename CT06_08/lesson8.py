@@ -22,8 +22,8 @@ print("Hello from lesson 8")
 # print( start <= num1 <= end )
 
 
-num = int(input("give me a number: "))
-print ( num % 2 == 0 )
+# num = int(input("give me a number: "))
+# print ( num % 2 == 0 )
 
 num1 = int(input("first number? "))
 num2 = int(input("second number? "))
