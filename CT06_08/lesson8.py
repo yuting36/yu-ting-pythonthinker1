@@ -6,3 +6,4 @@ num2 = random.randint(1,50)
 question = "what is " + str(num1) + "+ " + str(num2) +"?  "
 ans = int(input(question))
 hidden_ans = num1 + num2
+print( ans == hidden_ans)
