@@ -26,4 +26,4 @@ r = num % 2
 print ( r <= 0 )
 
 num = int(input("give me a number: "))
-print (  <= 0 )
+print ( num % 2 <= 0 )
