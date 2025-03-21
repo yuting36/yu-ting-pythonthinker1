@@ -24,3 +24,6 @@ print("Hello from lesson 8")
 num = int(input("give me a number: "))
 r = num % 2
 print ( r <= 0 )
+
+num = int(input("give me a number: "))
+print (  <= 0 )
