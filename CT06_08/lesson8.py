@@ -23,4 +23,4 @@ print("Hello from lesson 8")
 
 
 num = int(input("give me a number: "))
-print ( num % 2 <= 0 )
+print ( num % 2 == 0 )
