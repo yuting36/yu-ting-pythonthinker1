@@ -21,4 +21,5 @@ print("Hello from lesson 8")
 # print ("start number is " +)
 # print( start <= num1 <= end )
 
-num = input("give me a number: ")
+num = int(input("give me a number: "))
+
