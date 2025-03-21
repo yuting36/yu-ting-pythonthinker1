@@ -15,7 +15,7 @@ print("Hello from lesson 8")
 
 
 import random
-num1 = random.randint(1,50)
+num1 = random.randint(1,100)
 start  = int(input("start number? "))
 end = int(input("end number? "))
 print( start <= num1 <= end )
