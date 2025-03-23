@@ -26,7 +26,7 @@ import random
 # else : print ("awh wrong answer, the anser was : " + str(RandNum))
 
 price_apples = 0.60
-price_orange = 0.90
+price_oranges = 0.90
 
 num_apples = int(input("how many apples do you want? "))
-num_orange = int(input("how many orange do you want? "))
+num_oranges = int(input("how many oranges do you want? "))
