@@ -14,6 +14,6 @@ import random
 # Even_odd = num1 % 2 == num2 % 2 == num3 % 2 == 0
 # print (Even_odd)
 
-d
+days
 
 
