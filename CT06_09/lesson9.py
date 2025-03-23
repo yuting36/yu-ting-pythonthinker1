@@ -7,7 +7,7 @@ num2 = random.randint(1, 6)
 num3 = random.randint(1, 6)
 
 print("number one is : " + str(num1 ))
-print( number two is : " + str(num2 ))
+print("number two is : " + str(num2 ))
 print("number three is : " + str(num3))
 
 
