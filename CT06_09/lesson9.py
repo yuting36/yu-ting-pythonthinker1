@@ -29,4 +29,4 @@ price_apples = 0.60
 price_orange = 0.90
 
 num_apples = int(input("how many apples do you want? "))
-num_apples = int(input("how many apples do you want? "))
+num_orange = int(input("how many orange do you want? "))
