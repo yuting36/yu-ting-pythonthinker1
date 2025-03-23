@@ -26,4 +26,4 @@ import random
 # else : print ("awh wrong answer, the anser was : " + str(RandNum))
 
 price_apples = 0.60
-price_orange = 0.60
+price_orange = 0.0
