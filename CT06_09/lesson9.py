@@ -7,8 +7,8 @@ num2 = random.randint(1, 6)
 num3 = random.randint(1, 6)
 
 print("number one is :" + str(num1 ))
-print("number two is :" + num2 )
-print("number three is :" + num3 )
+print("number two is :" + str(num2 ))
+print("number three is :" + str(num3 ))
 
 Even_odd = num1 % 2 == num2 % 2 == num3 % 2 == 0
 print (Even_odd)
