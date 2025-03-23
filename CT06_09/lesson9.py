@@ -16,6 +16,6 @@ import random
 
 days = int(input("how many days have you borrowed the book? "))
 if days >= 25 :
-    print("")
+    print("return the book")
 
 
