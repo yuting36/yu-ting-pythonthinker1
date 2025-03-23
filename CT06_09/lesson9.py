@@ -2,4 +2,4 @@ print("Hello from lesson 9")
 
 import random
 
-num1
+num1 = random.
