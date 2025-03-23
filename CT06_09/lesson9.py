@@ -39,5 +39,5 @@ if num_oranges > 5 :
     price_oranges = num_oranges * price_oranges / 10
 else :  price_oranges = num_oranges * price_oranges
 
-print("Your total is : $" + str(price_oranges + price_apples ))
+print("Your total is: $" + str(price_oranges + price_apples ))
 
