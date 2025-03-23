@@ -28,4 +28,4 @@ import random
 price_apples = 0.60
 price_orange = 0.90
 
-num_apples = int()
+num_apples = int(input())
