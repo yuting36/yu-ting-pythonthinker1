@@ -22,6 +22,7 @@ RandNum = random.randint(0 , 10)
 
 guess = int(input("what is the number? "))
 if guess == RandNum :
-    print ("congratulations you got it correct")
+    print ("congratulations you got it correct!")
+else : print ("awh wrong answer, the anser was : " + str(RandNum))
 
 
