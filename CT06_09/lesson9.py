@@ -15,6 +15,7 @@ import random
 # print (Even_odd)
 
 days = int(input("how many days have you borrowed the book? "))
-
+if days >= 25 :
+    how
 
 
