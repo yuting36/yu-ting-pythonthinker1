@@ -18,6 +18,6 @@ import random
 # if days >= 25 :
 #     print("return the book")
 
-
+rand
 
 
