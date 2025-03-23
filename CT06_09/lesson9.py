@@ -20,6 +20,6 @@ import random
 
 RandNum = random.randint(0 , 10)
 
-guess = int(input(""))
+guess = int(input("what is the number? "))
 
 
