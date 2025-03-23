@@ -18,6 +18,7 @@ import random
 # if days >= 25 :
 #     print("return the book")
 
-RandNum = random.randint(0 , )
+RandNum = random.randint(0 , 10)
+
 
 
