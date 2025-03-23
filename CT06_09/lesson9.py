@@ -14,8 +14,10 @@ import random
 # Even_odd = num1 % 2 == num2 % 2 == num3 % 2 == 0
 # print (Even_odd)
 
-days = int(input("how many days have you borrowed the book? "))
-if days >= 25 :
-    print("return the book")
+# days = int(input("how many days have you borrowed the book? "))
+# if days >= 25 :
+#     print("return the book")
+
+
 
 
