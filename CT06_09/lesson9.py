@@ -36,8 +36,8 @@ if num_apples > 5 :
 else :  price_apples = num_apples * price_apples
 
 if num_oranges > 5 :
-    num_oranges * price_oranges / 10
-else :  num_oranges * price_oranges
+    price_oranges = num_oranges * price_oranges / 10
+else :  price_oranges = num_oranges * price_oranges
 
     
 
