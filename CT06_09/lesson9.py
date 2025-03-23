@@ -21,5 +21,7 @@ import random
 RandNum = random.randint(0 , 10)
 
 guess = int(input("what is the number? "))
+if guess == RandNum :
+    print ("congr")
 
 
