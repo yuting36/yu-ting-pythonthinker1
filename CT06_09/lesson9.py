@@ -33,5 +33,8 @@ num_oranges = int(input("how many oranges do you want? "))
 
 if num_apples > 5 :
     num_apples * price_apples / 10
+else :  num_apples * price_apples
+
+
     
 
