@@ -60,4 +60,4 @@ for i in range (10) :
      if rate <= 3 :
           undesirable += 1
 
-print ("desirable rates : " + )
+print ("desirable rates : " + str(desirable))
