@@ -3,6 +3,6 @@
 num = int(input("give me number now : "))
 
 if num < 0 :
-    print ( num + " is positive")
+    print (str(num) + " is positive")
 else:
-    print ( num + " is negitive")
+    print (num + " is negitive")
