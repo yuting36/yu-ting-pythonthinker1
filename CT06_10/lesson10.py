@@ -30,4 +30,5 @@ age = int(input("what is your age :"))
 score = int(input("what iz your score? :"))
 
 if score > 90 :
-    print ("your grade is ")
+    print ("your grade is A")
+e
