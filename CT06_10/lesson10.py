@@ -28,4 +28,6 @@ age = int(input("what is your age :"))
         #     print("dead")
 
 score = int(input("what iz your score? :"))
- 
+
+if score > 90 :
+    pri
