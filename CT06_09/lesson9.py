@@ -48,7 +48,7 @@ for i in range (7) :
     if temp > 30 :
         poisitive_days += 1
 
-print ("num of positive dayz iz " + str())
+print ("num of positive dayz iz " + str(poisitive_days))
 
 
 
