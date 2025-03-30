@@ -27,4 +27,4 @@ age = int(input("what is your age :"))
         # if age > 100:
         #     print("dead")
 
-score = int(input("what iz"))
+score = int(input("what iz your score :"))
