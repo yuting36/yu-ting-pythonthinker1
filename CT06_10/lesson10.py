@@ -24,5 +24,5 @@ else:
     else :
         print("adult")
 
-        if age > 100 :
+        if age > 100:
             print("dead")
