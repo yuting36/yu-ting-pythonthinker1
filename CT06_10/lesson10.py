@@ -2,7 +2,7 @@
 
 num = int(input("give me number now : "))
 
-if num < 0 :
+if num > 0 :
     print (str(num) + " is positive")
 else:
     print (str(num) + " is negitive")
