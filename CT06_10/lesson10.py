@@ -7,9 +7,11 @@
 # else:
 #     print (str(num) + " is negitive")
 
-num = input("give me a number :")
+# num = input("give me a number :")
 
-if int(num) % 2 == 0 :
-    print( num + " is even")
-else :
-    print( num + " is odd")
+# if int(num) % 2 == 0 :
+#     print( num + " is even")
+# else :
+#     print( num + " is odd")
+
+if 
