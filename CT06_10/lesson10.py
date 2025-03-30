@@ -33,3 +33,5 @@ if score >= 90 :
     print ("your grade is A")
 elif score >= 80:
     print ("your grade is B")
+elif score >= 80:
+    print ("your grade is B")
