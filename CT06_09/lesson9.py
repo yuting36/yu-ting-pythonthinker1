@@ -41,4 +41,5 @@ import random
 
 # print("Your total is: $" + str(price_oranges + price_apples ))
 
-poisitive_day
+poisitive_days = 0
+
