@@ -14,7 +14,12 @@
 # else :
 #     print( num + " is odd")
 
-age = input("what is your age :")
+age = intinput("what is your age :")
 
 if age < 13:
-    print
+    print("child")
+else:
+    if age < 19:
+        print("teen")
+    else :
+        print("adult")
