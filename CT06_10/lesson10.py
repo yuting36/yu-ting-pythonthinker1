@@ -32,4 +32,4 @@ score = int(input("what iz your score? :"))
 if score > 90 :
     print ("your grade is A")
 elif score > 80:
-    print ("your grade is A")
+    print ("your grade is B")
