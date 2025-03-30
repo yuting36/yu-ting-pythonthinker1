@@ -43,3 +43,7 @@ import random
 
 poisitive_days = 0
 
+for i in range (7) : 
+    if i > 7 :
+        input
+
