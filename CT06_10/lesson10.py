@@ -3,4 +3,5 @@
 num = int(input("give me number now : "))
 
 if num < 0 :
-    print ( num + "is ")
+    print ( num + " is positive")
+
