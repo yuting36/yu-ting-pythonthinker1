@@ -46,7 +46,8 @@ poisitive_days = 0
 for i in range (7) : 
     temp = int(input ('todays temp?? '))
     if temp > 30 :
-        poisitive_days
+        poisitive_days += 1
+        
 
 
 
