@@ -16,13 +16,13 @@
 
 age = int(input("what is your age :"))
 
-if age < 13:
-    print("child")
-else:
-    if age < 19:
-        print("teen")
-    else :
-        print("adult")
+# if age < 13:
+#     print("child")
+# else:
+#     if age < 19:
+#         print("teen")
+#     else :
+#         print("adult")
 
         # if age > 100:
         #     print("dead")
