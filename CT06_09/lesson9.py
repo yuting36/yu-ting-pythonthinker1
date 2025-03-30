@@ -61,4 +61,4 @@ for i in range (10) :
           undesirable += 1
 
 print ("desirable rates : " + str(desirable))
-print ("desirable rates : " + str(desirable))
+print ("undesirable rates : " + str(un))
