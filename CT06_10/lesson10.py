@@ -14,4 +14,4 @@
 # else :
 #     print( num + " is odd")
 
-age = input("")
+age = input("what is your age :")
