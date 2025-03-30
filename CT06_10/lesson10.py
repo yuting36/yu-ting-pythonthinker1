@@ -15,3 +15,6 @@
 #     print( num + " is odd")
 
 age = input("what is your age :")
+
+if age < 13:
+    print
