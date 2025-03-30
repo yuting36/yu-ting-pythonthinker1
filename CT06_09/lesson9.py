@@ -59,4 +59,4 @@ for i in range (10) :
           desirable += 1
      if rate <= 3 :
           undesirable += 1
-          
+
