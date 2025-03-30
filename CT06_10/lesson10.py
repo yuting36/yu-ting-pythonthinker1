@@ -14,7 +14,7 @@
 # else :
 #     print( num + " is odd")
 
-age = int(input("what is your age :"))
+# age = int(input("what is your age :"))
 
 # if age < 13:
 #     print("child")
