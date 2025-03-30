@@ -10,4 +10,5 @@
 num = input("give me a number :")
 
 if num % 2 == 0 :
-    print( "is even")
+    
+    
