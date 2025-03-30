@@ -41,14 +41,15 @@ import random
 
 # print("Your total is: $" + str(price_oranges + price_apples ))
 
-poisitive_days = 0
+# poisitive_days = 0
 
-for i in range (7) : 
-    temp = int(input ('todays temp?? '))
-    if temp > 30 :
-        poisitive_days += 1
+# for i in range (7) : 
+#     temp = int(input ('todays temp?? '))
+#     if temp > 30 :
+#         poisitive_days += 1
 
-print ("num of positive dayz iz " + str(poisitive_days))
+# print ("num of positive dayz iz " + str(poisitive_days))
+
 
 
 
