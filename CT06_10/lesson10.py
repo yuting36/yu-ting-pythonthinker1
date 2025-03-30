@@ -7,4 +7,4 @@
 # else:
 #     print (str(num) + " is negitive")
 
-num = inpu
+num = input("")
