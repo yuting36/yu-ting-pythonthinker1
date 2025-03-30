@@ -3,4 +3,4 @@
 num = int(input("give me number now : "))
 
 if num < 0 :
-    print ()
+    print ( num + "is ")
