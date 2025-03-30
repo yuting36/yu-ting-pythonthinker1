@@ -29,7 +29,7 @@ age = int(input("what is your age :"))
 
 score = int(input("what iz your score? :"))
 
-if score > 90 :
+if score >= 90 :
     print ("your grade is A")
-elif score > 80:
+elif score >= 80:
     print ("your grade is B")
