@@ -55,7 +55,7 @@ undesirable = 0
 
 for i in range (10) :
      rate = int(input('rate from 1-5 :'))
-     if rate >= 3 :
+     if rate > 3 :
           desirable += 1
      if rate <= 3 :
           undesirable += 1
