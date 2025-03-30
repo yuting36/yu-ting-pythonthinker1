@@ -37,4 +37,4 @@ if ans == num:
     print ("Good job you got it :)")
 else:
       print("Awh you did not get it correct")
-      print ("the correct number was: " + ans)
+      print ("the correct number was: " + str(ans))
