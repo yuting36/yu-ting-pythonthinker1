@@ -54,4 +54,4 @@ desirable = 0
 undesirable = 0
 
 for i in range (10) :
-     rate = in
+     rate = int(input(''))
