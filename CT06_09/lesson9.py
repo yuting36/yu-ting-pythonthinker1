@@ -51,3 +51,4 @@ import random
 # print ("num of positive dayz iz " + str(poisitive_days))
 
 desirable = 0
+undesirable = 0
