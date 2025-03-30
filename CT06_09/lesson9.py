@@ -50,3 +50,4 @@ import random
 
 # print ("num of positive dayz iz " + str(poisitive_days))
 
+des
