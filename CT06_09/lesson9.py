@@ -25,19 +25,19 @@ import random
 #     print ("congratulations you got it correct!")
 # else : print ("awh wrong answer, the anser was : " + str(RandNum))
 
-price_apples = 0.60
-price_oranges = 0.90
+# price_apples = 0.60
+# price_oranges = 0.90
 
-num_apples = int(input("how many apples do you want? "))
-num_oranges = int(input("how many oranges do you want? "))
+# num_apples = int(input("how many apples do you want? "))
+# num_oranges = int(input("how many oranges do you want? "))
 
-if num_apples > 5 :
-    price_apples = num_apples * price_apples * 0.9
-else :  price_apples = num_apples * price_apples
+# if num_apples > 5 :
+#     price_apples = num_apples * price_apples * 0.9
+# else :  price_apples = num_apples * price_apples
 
-if num_oranges > 5 :
-    price_oranges = num_oranges * price_oranges * 0.9
-else :  price_oranges = num_oranges * price_oranges
+# if num_oranges > 5 :
+#     price_oranges = num_oranges * price_oranges * 0.9
+# else :  price_oranges = num_oranges * price_oranges
 
-print("Your total is: $" + str(price_oranges + price_apples ))
+# print("Your total is: $" + str(price_oranges + price_apples ))
 
