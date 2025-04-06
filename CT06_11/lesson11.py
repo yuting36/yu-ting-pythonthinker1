@@ -9,4 +9,4 @@ elif px >= 50:
 elif px >= 500:
     print("WHERE R U GETTING THIZ MUCH $ !!!????")
 else: # else:
-    print("R.I.P bank account :")
+    print("R.I.P bank account :D")
