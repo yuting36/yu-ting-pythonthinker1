@@ -51,5 +51,5 @@ drink = input("want a drink ?")
 fries = input("want fries ?")
 
 if burger == "yes" and fries == "yes" and not drink == "yes":
-    print
+    print("do u wnat ")
     
