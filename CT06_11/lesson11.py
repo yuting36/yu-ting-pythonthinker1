@@ -45,3 +45,5 @@ password_lol = "IAte10HomelessPeopleCuzIThoughtTheyWhereWatermelons"
 userguess = input("what is the password?")
 if not userguess == password_lol:
     print("Access denied")
+
+burger = input
