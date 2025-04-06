@@ -61,4 +61,5 @@ user_input_pw = input("what is the password?")
 
 if user_input_user == user and user_input_pw == pw:
     print("access granted :D")
-    
+elif user_input_user == user or user_input_pw == pw:
+    print(" :D")
