@@ -22,4 +22,4 @@
 # if num % 3 == 0 and num % 7 == 0:
 #     print("the number is divisible by 3 and 7")
 
-first_name
+first_name = input("")
