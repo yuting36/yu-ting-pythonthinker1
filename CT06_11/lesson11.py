@@ -20,4 +20,4 @@
 num = int(input("give mah a numbah "))
 
 if num % 3 == 0 and num % 7 == 0:
-    print("the number is divisable")
+    print("the number is divisible by 3 and 7")
