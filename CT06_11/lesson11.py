@@ -23,5 +23,6 @@
 #     print("the number is divisible by 3 and 7")
 
 first_name = input("what is ur first name? ")
+last_name = input("what is ur  name? ")
 
 
