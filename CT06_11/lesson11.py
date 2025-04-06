@@ -36,4 +36,4 @@
 #     print("you can ride :D")
 # else: print("you cannot ride :o get a older person 2 come with u :D)")
 
-age=
+age = int(input("how old r you rider 1 ? "))
