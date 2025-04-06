@@ -11,8 +11,8 @@
 # else:
 #     print("R.I.P bank account :D")
 
-r1 = int(input("how tall r you rider 1 ? "))
-r2 = int(input("how tall r you rider 2 ? "))
+# r1 = int(input("how tall r you rider 1 ? "))
+# r2 = int(input("how tall r you rider 2 ? "))
 
-result = r1 > 120 and r2 > 120
-print(result)
+# result = r1 > 120 and r2 > 120
+# print(result)
