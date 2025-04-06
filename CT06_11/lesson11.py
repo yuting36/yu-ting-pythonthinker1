@@ -8,5 +8,5 @@ elif px >= 50: # <=
     print("good 2 buy :D")
 elif px >= 500: # <=
     print("WHERE R U GETTING THIZ MUCH $ !!!????")
-else: # else:
+else:
     print("R.I.P bank account :D")
