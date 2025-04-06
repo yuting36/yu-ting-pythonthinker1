@@ -48,3 +48,4 @@ if not userguess == password_lol:
 
 burger = input("want a burger?")
 burger = input("want a ?")
+burger = input("want a ?")
