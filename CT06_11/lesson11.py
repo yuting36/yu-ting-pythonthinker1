@@ -36,4 +36,6 @@
 #     print("you can ride :D")
 # else: print("you cannot ride :o get a older person 2 come with u :D)")
 
-age = int(input("how old r you rider 1 ? "))
+age = int(input("how old r you? "))
+if age < 12 or age > 65:
+    print
