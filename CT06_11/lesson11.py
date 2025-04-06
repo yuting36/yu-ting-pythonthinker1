@@ -41,5 +41,5 @@
 #     print("your ticket iz 15 dollarz")
 # else: print("your ticket iz 20 dollarz")
 
-password = "IAte10"
+password = "IAte10HomelessPeopleCuzIThought"
 userguess = input("what is the password?")
