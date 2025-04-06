@@ -38,4 +38,4 @@
 
 age = int(input("how old r you? "))
 if age < 12 or age > 65:
-    print("you ")
+    print("your ticket iz 15 dollarz")
