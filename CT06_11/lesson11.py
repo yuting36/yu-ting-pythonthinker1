@@ -41,7 +41,7 @@
 #     print("your ticket iz 15 dollarz")
 # else: print("your ticket iz 20 dollarz")
 
-password = "IAte10HomelessPeopleCuzIThoughtTheyWhereWatermelons"
+passwords = "IAte10HomelessPeopleCuzIThoughtTheyWhereWatermelons"
 userguess = input("what is the password?")
-if not userguess == password:
+if not userguess == passwords:
     print("Access denied")
