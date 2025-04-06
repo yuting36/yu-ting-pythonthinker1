@@ -17,4 +17,5 @@
 # result = r1 > 120 and r2 > 120
 # print(result)
 
-num = int(input("give mah a num"))
+num = int(input("give mah a numbah "))
+
