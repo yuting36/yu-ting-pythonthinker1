@@ -34,4 +34,4 @@ r2 = int(input("how old r you rider 2 ? "))
 result = r1 >= 18 or r2 >= 18
 if result:
     print("you can ride :D")
-else: print("you cannot ride :( get a older person 2 come with u :D)")
+else: print("you cannot ride :get a older person 2 come with u :D)")
