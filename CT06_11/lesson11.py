@@ -6,5 +6,5 @@ if px <= 5:
     print("might be bad quality but fine!")
 elif px >= 50:
     print("good 2 buy :D")
-elif px >= 50:
-    print("good 2 buy :D")
+elif px >= 500:
+    print("")
