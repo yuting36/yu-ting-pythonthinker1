@@ -54,4 +54,4 @@
 #     print("do u want a drink?")
     
 user = "john123"
-pw = ""
+pw = "pass"
