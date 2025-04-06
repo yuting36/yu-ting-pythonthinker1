@@ -53,3 +53,5 @@
 # if burger == "yes" and fries == "yes" and not drink == "yes":
 #     print("do u want a drink?")
     
+user = "john123"
+pw = ""
