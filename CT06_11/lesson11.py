@@ -32,4 +32,5 @@ r1 = int(input("how old r you rider 1 ? "))
 r2 = int(input("how old r you rider 2 ? "))
 
 result = r1 >= 18 or r2 >= 18
-print("you can ride :D")
+if result:
+    print("you can ride :D")
