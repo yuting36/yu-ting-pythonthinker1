@@ -11,4 +11,4 @@
 # else:
 #     print("R.I.P bank account :D")
 
-r1 = int(in)
+r1 = int(input("how"))
