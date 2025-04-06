@@ -14,4 +14,4 @@
 r1 = int(input("how tall r you rider 1 ? "))
 r2 = int(input("how tall r you rider 2 ? "))
 
-result = r1 
+result = r1 > 120 and r1 > 120
