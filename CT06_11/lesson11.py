@@ -49,3 +49,7 @@ if not userguess == password_lol:
 burger = input("want a burger?")
 drink = input("want a drink ?")
 fries = input("want fries ?")
+
+if burger == "yes" and fries == "yes" and not drink == "yes":
+    print
+    
