@@ -36,7 +36,8 @@
 #     print("you can ride :D")
 # else: print("you cannot ride :o get a older person 2 come with u :D)")
 
-age = int(input("how old r you? "))
-if age < 12 or age > 65:
-    print("your ticket iz 15 dollarz")
-else: print("your ticket iz 20 dollarz")
+# age = int(input("how old r you? "))
+# if age < 12 or age > 65:
+#     print("your ticket iz 15 dollarz")
+# else: print("your ticket iz 20 dollarz")
+
