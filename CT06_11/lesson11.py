@@ -46,4 +46,4 @@ userguess = input("what is the password?")
 if not userguess == password_lol:
     print("Access denied")
 
-burger = input
+burger = input("want a burger?")
