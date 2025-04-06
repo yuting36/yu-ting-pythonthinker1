@@ -42,3 +42,4 @@
 # else: print("your ticket iz 20 dollarz")
 
 password = "python123"
+userguess = input("")
