@@ -7,4 +7,4 @@ if px <= 5:
 elif px >= 50:
     print("good 2 buy :D")
 elif px >= 500:
-    print("")
+    print("R U ")
