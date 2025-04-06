@@ -25,5 +25,6 @@
 first_name = input("what is ur first name? ")
 last_name = input("what is ur last name? ")
 
-
+if first_name == James and first_name == Leong :
+    print ("YOU ARE WANTED")
 
