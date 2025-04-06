@@ -38,4 +38,4 @@
 
 age = int(input("how old r you? "))
 if age < 12 or age > 65:
-    print
+    print("you ")
