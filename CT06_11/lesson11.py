@@ -22,9 +22,9 @@
 # if num % 3 == 0 and num % 7 == 0:
 #     print("the number is divisible by 3 and 7")
 
-first_name = input("what is ur first name? ")
-last_name = input("what is ur last name? ")
+# first_name = input("what is ur first name? ")
+# last_name = input("what is ur last name? ")
 
-if first_name == James and first_name == Leong :
-    print ("YOU ARE WANTED")
+# if first_name == James and first_name == Leong :
+#     print ("YOU ARE WANTED")
 
