@@ -41,15 +41,15 @@
 #     print("your ticket iz 15 dollarz")
 # else: print("your ticket iz 20 dollarz")
 
-password_lol = "IAte10HomelessPeopleCuzIThoughtTheyWhereWatermelons"
-userguess = input("what is the password?")
-if not userguess == password_lol:
-    print("Access denied")
+# password_lol = "IAte10HomelessPeopleCuzIThoughtTheyWhereWatermelons"
+# userguess = input("what is the password?")
+# if not userguess == password_lol:
+#     print("Access denied")
 
-burger = input("want a burger?")
-drink = input("want a drink ?")
-fries = input("want fries ?")
+# burger = input("want a burger?")
+# drink = input("want a drink ?")
+# fries = input("want fries ?")
 
-if burger == "yes" and fries == "yes" and not drink == "yes":
-    print("do u want a drink?")
+# if burger == "yes" and fries == "yes" and not drink == "yes":
+#     print("do u want a drink?")
     
