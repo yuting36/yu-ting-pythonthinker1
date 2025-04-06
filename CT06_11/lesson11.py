@@ -44,4 +44,4 @@
 password = "IAte10HomelessPeopleCuzIThoughtTheyWhereWatermelons"
 userguess = input("what is the password?")
 if not userguess == password:
-    print("Access denided")
+    print("Access denied")
