@@ -1,3 +1,3 @@
 print("Hello from lesson 11")
 
-px = int()
+px = int(input("how much $ "))
