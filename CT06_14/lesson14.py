@@ -1,5 +1,6 @@
 
 
 import turtle 
- 
+
+turtle.mainscreen()
 
