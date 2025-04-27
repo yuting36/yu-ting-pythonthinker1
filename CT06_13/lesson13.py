@@ -63,7 +63,7 @@ pizza_top = [
     "peperoni",
     "pineapple"
 ]
-counter = 0
+counter = 1
 print("Toppings:")
 for i in pizza_top:
     print(str(counter) + ". " + i)
@@ -74,6 +74,7 @@ while True:
         break
     # elif:
     #     if choice == "something":
+    
 
 
     else:
