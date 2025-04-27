@@ -66,7 +66,7 @@ pizza_top = [
 counter = 0
 print("Toppings:")
 for i in pizza_top:
-    print(counter + i)
+    print(stri(counter + i))
     counter =+ 1
 while True:
     choice = input("what do u want? give number: ")
