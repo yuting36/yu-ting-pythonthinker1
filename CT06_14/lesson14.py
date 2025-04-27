@@ -18,8 +18,8 @@ t.pendown
 #square:
 t.seth(90)
 for i in (4):
-#     t.forward(100)
-#     t.left(90)
+    t.forward(100)
+    t.left(90)
 
 # #triangle:
 # t.seth(90)
