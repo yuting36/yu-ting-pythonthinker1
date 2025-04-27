@@ -9,8 +9,10 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
 
+#line:
 t.seth(90)
 t.forward
+
 
 
 window.mainloop()
