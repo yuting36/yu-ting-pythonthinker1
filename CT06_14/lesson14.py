@@ -17,7 +17,7 @@ t.pendown
 
 #square:
 t.seth(90)
-for i in (4):
+for i in range (4):
     t.forward(100)
     t.left(90)
 
