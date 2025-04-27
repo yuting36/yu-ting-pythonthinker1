@@ -34,14 +34,14 @@ for i in range (4):
 #     t.left(72)
 
 # #hexagon :
-# t.seth(90range )
-# for i in (6):
+# t.seth(90)
+# for i in range (6):
 #     t.forward(100)
 #     t.left(60)
 
 # #circle :
 # t.seth(90)
-# for i in (360): 
+# for i in range (360): 
 #     t.forward(100)
 #     t.left(1)
 
