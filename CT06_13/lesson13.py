@@ -65,4 +65,6 @@ pizza_top = [
 ]
 
 while True:
-    print("")
+    print("Toppings:")
+    for i in pizza_top:
+        print(i)
