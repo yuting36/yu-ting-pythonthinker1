@@ -4,4 +4,4 @@ import turtle
 
 turtle.mainscreen()
 
-tu.mainloop()
+turtle.mainloop()
