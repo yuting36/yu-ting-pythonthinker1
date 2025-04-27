@@ -70,7 +70,7 @@ for i in pizza_top:
     counter =+ 1
 while True:
     choice = input("what do u want? give number: ")
-    if user_top == "end":
+    if choice == "end":
         break
     else:
         user_top.append(pizza_top[int(choice) - 1])
