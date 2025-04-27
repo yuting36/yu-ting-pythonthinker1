@@ -65,4 +65,4 @@ pizza_top = [
 ]
 
 while True:
-    print
+    print("")
