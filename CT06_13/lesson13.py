@@ -64,6 +64,10 @@ pizza_top = [
     "pineapple"
 ]
 counter = 0
+print("Toppings:")
+for i in pizza_top:
+        print(counter + i)
+        counter =+ 1
 while True:
     print("Toppings:")
     for i in pizza_top:
