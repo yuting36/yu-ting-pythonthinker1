@@ -63,7 +63,7 @@ pizza_top = [
     "peperoni",
     "pineapple"
 ]
-
+counter = 0
 while True:
     print("Toppings:")
     for i in pizza_top:
