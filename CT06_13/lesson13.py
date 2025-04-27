@@ -74,4 +74,4 @@ while True:
         break
     else:
         user_top.append(pizza_top[int(choice) - 1])
-print(us)
+print(user_)
