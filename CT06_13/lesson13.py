@@ -69,4 +69,4 @@ for i in pizza_top:
     print(counter + i)
     counter =+ 1
 while True:
-    user
+    user_top = []
