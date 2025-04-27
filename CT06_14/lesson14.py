@@ -2,6 +2,6 @@
 
 import turtle 
 
-turtle.mainscreen()
+window = turtle.screen()
 
-turtle.mainloop()
+.mainloop()
