@@ -15,35 +15,35 @@ t.pendown
 t.seth(90)
 t.forward(100)
 
-#square:
-t.seth(90)
-for i in (4):
-    t.forward(100)
-    t.left(90)
+# #square:
+# t.seth(90)
+# for i in (4):
+#     t.forward(100)
+#     t.left(90)
 
-#triangle:
-t.seth(90)
-for i in (3):
-    t.forward(100)
-    t.left(120)
+# #triangle:
+# t.seth(90)
+# for i in (3):
+#     t.forward(100)
+#     t.left(120)
 
-#pentagon :
-t.seth(90)
-for i in (5):   
-    t.forward(100)
-    t.left(72)
+# #pentagon :
+# t.seth(90)
+# for i in (5):   
+#     t.forward(100)
+#     t.left(72)
 
-#hexagon :
-t.seth(90)
-for i in (6):
-    t.forward(100)
-    t.left(60)
+# #hexagon :
+# t.seth(90)
+# for i in (6):
+#     t.forward(100)
+#     t.left(60)
 
-#circle :
-t.seth(90)
-for i in (360): 
-    t.forward(100)
-    t.left(1)
+# #circle :
+# t.seth(90)
+# for i in (360): 
+#     t.forward(100)
+#     t.left(1)
 
 t.penup
 
