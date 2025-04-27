@@ -64,4 +64,4 @@ pizza_top = [
     "pineapple"
 ]
 
-print
+print(pizza)
