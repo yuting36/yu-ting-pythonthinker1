@@ -68,3 +68,4 @@ while True:
     print("Toppings:")
     for i in pizza_top:
         print(counter + i)
+        counter =+ 1
