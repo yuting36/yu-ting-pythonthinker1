@@ -43,7 +43,7 @@ t.pendown
 
 for i in range (360): 
     t.forward(100)
-    t.left(6)
+    t.left()
 
 t.penup
 
