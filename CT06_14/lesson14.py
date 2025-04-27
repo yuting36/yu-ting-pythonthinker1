@@ -45,6 +45,7 @@ for i in (360):
     t.forward(100)
     t.left(1)
 
+t.penup
 
 
 window.mainloop()
