@@ -4,17 +4,23 @@
 # for i in range(3,0,-1):
 #     print (i)
 
-start = int(input("give meh a start number  "))
-stop = int(input("give meh a stop number  "))
+# start = int(input("give meh a start number  "))
+# stop = int(input("give meh a stop number  "))
 
-if start > stop:
-    for r in range(start , stop - 1 ,-1):
-        print (r)
-else:
-     for r in range(start , stop + 1 ,1):
-        print (r)
+# if start > stop:
+#     for r in range(start , stop - 1 ,-1):
+#         print (r)
+# else:
+#      for r in range(start , stop + 1 ,1):
+#         print (r)
 
-print ("thats cool anyway heres the numbers 1 - 10000")
+# print ("thats cool anyway heres the numbers 1 - 10000")
 
-for r in range(1,10001):
-    print(r)
+# for r in range(1,10001):
+#     print(r)
+
+smc = 1 
+0:
+while smc < 100:
+    print("SO SHINY SO STRONGGGG")
+    smc += 1
