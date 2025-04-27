@@ -54,14 +54,6 @@ buy_items = [
 # buy_items.pop(2)
 # print (buy_items)
 
-for item in buy_items:
-    if item == "Apples":
-        print(item + ": i need 5 of these")
+# 
 
-    elif item == "Carrots":
-        print(item + ": i need 3 of these")
 
-    elif item == "Grape":
-        print(item + ": get the FarmFresh brand")
-
-    else: print(item)
