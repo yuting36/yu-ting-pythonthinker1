@@ -69,4 +69,5 @@ for i in pizza_top:
     print(counter + i)
     counter =+ 1
 while True:
-    user_top = input("what do u want?")
+    user_top = input("what do u want? give number: ")
+    
