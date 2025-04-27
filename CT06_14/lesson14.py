@@ -4,6 +4,6 @@ import turtle
 
 window = turtle.Screen()
 
-window.setup(witd)
+window.setup(width=600 ,)
 
 window.mainloop()
