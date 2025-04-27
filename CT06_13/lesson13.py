@@ -59,5 +59,6 @@ buy_items = [
 
 pizza_top = [
     "Mushrooms",
-    "tomato"
+    "tomatos",
+    ""
 ]
