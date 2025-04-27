@@ -13,6 +13,8 @@ t.fillcolor("green")
 t.seth(90)
 t.forward
 
+#square:
+
 
 
 window.mainloop()
