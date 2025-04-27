@@ -73,4 +73,4 @@ while True:
     if user_top == "end":
         break
     else:
-        user_top.append(pizza_top[int(c)])
+        user_top.append(pizza_top[int(choice)])
