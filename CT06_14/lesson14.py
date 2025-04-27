@@ -9,7 +9,7 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
 
-t.
+t.seth(90)
 
 
 window.mainloop()
