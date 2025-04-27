@@ -72,6 +72,10 @@ while True:
     choice = input("what do u want? give number: ")
     if choice == "end":
         break
+    # elif:
+    #     if choice == "something":
+
+
     else:
         user_top.append(pizza_top[int(choice) - 1])
-print(user_)
+print(user_top)
