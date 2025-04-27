@@ -16,10 +16,10 @@ t.pendown
 #t.forward(100)
 
 #square:
-t.seth(90)
-for i in range (4):
-    t.forward(100)
-    t.left(90)
+# t.seth(90)
+# for i in range (4):
+#     t.forward(100)
+#     t.left(90)
 
 # #triangle:
 # t.seth(90)
@@ -43,7 +43,7 @@ for i in range (4):
 t.seth(90)
 for i in range (360): 
     t.forward(100)
-    t.left(1)
+    t.left(100)
 
 t.penup
 
