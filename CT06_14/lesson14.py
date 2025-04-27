@@ -23,7 +23,7 @@ for i in range (4):
 
 # #triangle:
 # t.seth(90)
-# for i in (3):
+# for i in range (3):
 #     t.forward(100)
 #     t.left(120)
 
