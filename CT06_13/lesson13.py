@@ -70,4 +70,5 @@ for i in pizza_top:
     counter =+ 1
 while True:
     user_top = input("what do u want? give number: ")
-    
+    if user_top == "end":
+        En
