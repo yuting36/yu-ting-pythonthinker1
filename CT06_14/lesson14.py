@@ -42,7 +42,7 @@ t.pendown
 #circle :
 t.seth(90)
 for i in range (360): 
-    t.forward(100)
+    t.forward(5)
     t.left(1)
 
 t.penup
