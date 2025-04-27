@@ -4,4 +4,4 @@ import turtle
 
 window = turtle.screen()
 
-.mainloop()
+window.mainloop()
