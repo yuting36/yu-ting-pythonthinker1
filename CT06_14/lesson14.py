@@ -14,7 +14,9 @@ t.seth(90)
 t.forward
 
 #square:
+t.seth(90)
 
+t.forward
 
 
 window.mainloop()
