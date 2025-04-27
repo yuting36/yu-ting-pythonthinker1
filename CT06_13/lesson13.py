@@ -73,4 +73,4 @@ while True:
     if user_top == "end":
         break
     else:
-        user
+        user_top.append
