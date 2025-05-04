@@ -33,6 +33,6 @@ user_pass = str(input("What is the password?  "))
 
 if user_pass != password:
     print("Access Granted")
-else :print
+else :print()
 
 
