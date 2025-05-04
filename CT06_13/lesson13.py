@@ -77,6 +77,6 @@ while True:
     
 
 
-    else:
-        user_top.append(pizza_top[int(choice) - 1])
-print(user_top)
+#     else:
+#         user_top.append(pizza_top[int(choice) - 1])
+# print(user_top)
