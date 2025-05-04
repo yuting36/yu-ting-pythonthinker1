@@ -58,6 +58,7 @@ print(planets)
 #    Rename Mars in the list to be "muskworld"
 
 planets[3] = "muskworld"
+print(p)
 
 # 4. Remove uranus from this list.
 
