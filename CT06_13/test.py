@@ -7,7 +7,7 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-num = 10          # 
+num = 10          
 while num <= 200: #loop it :D
     print(num)    # print the number
     num += 10
