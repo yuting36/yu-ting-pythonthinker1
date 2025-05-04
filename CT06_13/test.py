@@ -29,7 +29,7 @@ while num <= 200: #loop it :D
 # Write your code here
 
 password = "superpass123" # the password
-user_pass = str(input("What is the password?  ")) # ask user 
+user_pass = str(input("What is the password?  ")) # ask user to input password
 
 if user_pass == password:
     print("Access Granted")
