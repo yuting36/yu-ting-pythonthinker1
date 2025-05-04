@@ -65,3 +65,5 @@ del(planets[7])
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
+for item in planets:
+    print(item)
