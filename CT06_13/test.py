@@ -8,8 +8,8 @@
 # Write your code here
 
 num = 10
-while num <= 200: 
-    print(num)
+while num <= 200: #loop it :D
+    print(num)    
     num += 10
 
 
