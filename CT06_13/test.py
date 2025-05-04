@@ -9,7 +9,8 @@
 
 num = 10
 while num <= 200:
-    print
+    print(num)
+    num 
 
 
 
