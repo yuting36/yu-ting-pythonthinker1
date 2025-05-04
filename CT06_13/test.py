@@ -35,7 +35,7 @@
 #     print("Access Granted")
 # else :print("Access Denied")
 
-# 
+# QN 2 YEAHHHHHHHHHHHHHHHHHHHHHHHH
 
 # Basic List Functions
 # Do the following operations to the list provided below
