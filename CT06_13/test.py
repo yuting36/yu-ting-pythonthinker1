@@ -58,11 +58,12 @@ print(planets)
 #    Rename Mars in the list to be "muskworld"
 
 planets[3] = "muskworld"
-print(p)
+print(planets)
 
 # 4. Remove uranus from this list.
 
 del(planets[7])
+print
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
