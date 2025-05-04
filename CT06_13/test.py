@@ -63,7 +63,7 @@ print(planets)
 # 4. Remove uranus from this list.
 
 del(planets[7])
-print
+print(planets)
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
