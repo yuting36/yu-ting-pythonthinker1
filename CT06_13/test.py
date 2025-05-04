@@ -28,6 +28,6 @@ while num <= 200: #loop it :D
 
 # Write your code here
 
-password = "s"
+password = "superpass123" 
 
 
