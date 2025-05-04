@@ -27,3 +27,7 @@ while num <= 200: #loop it :D
 # If the password does not match, print “Access Denied”
 
 # Write your code here
+
+password = "s"
+
+
