@@ -10,7 +10,7 @@
 num = 10          
 while num <= 200: #loop it :D
     print(num)    # print the number
-    num += 10     # make it te multiples of 10
+    num += 10     # make it the multiples of 10
 
 
 
