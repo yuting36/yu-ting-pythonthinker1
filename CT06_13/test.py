@@ -7,7 +7,8 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-num = 0
+num = 10
+wh
 
 
 
