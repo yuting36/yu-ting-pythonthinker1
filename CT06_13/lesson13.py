@@ -35,16 +35,16 @@
 #         break
 
 
-buy_items = [
-    "Apples",
-    "Bread",
-    "Carrots",
-    "Dates",
-    "Eggs",
-    "Flour",
-    "Grape",
-    "Honey"
-]
+# buy_items = [
+#     "Apples",
+#     "Bread",
+#     "Carrots",
+#     "Dates",
+#     "Eggs",
+#     "Flour",
+#     "Grape",
+#     "Honey"
+# ]
 # print (buy_items)
 # buy_items[6] = "herbs"
 # print (buy_items)
@@ -56,22 +56,22 @@ buy_items = [
 
 # 
 
-user_top = []
-pizza_top = [
-    "Mushrooms",
-    "tomatos",
-    "peperoni",
-    "pineapple"
-]
-counter = 1
-print("Toppings:")
-for i in pizza_top:
-    print(str(counter) + ". " + i)
-    counter += 1
-while True:
-    choice = input("what do u want? give number: ")
-    if choice == "end":
-        break
+# user_top = []
+# pizza_top = [
+#     "Mushrooms",
+#     "tomatos",
+#     "peperoni",
+#     "pineapple"
+# ]
+# counter = 1
+# print("Toppings:")
+# for i in pizza_top:
+#     print(str(counter) + ". " + i)
+#     counter += 1
+# while True:
+#     choice = input("what do u want? give number: ")
+#     if choice == "end":
+#         break
     # elif:
     #     if choice == "something":
     
