@@ -8,7 +8,8 @@
 # Write your code here
 
 num = 10
-wh
+while num <= 200:
+    print
 
 
 
