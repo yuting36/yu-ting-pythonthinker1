@@ -20,4 +20,4 @@ for number in numbers :
     if isEven(number):
         print(str(number) + " is even :D")
     else :
-        print(number + " is odd :D")
+        print(str(number) + " is odd :D")
