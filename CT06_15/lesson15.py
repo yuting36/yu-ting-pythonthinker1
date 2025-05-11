@@ -28,4 +28,4 @@ def square(num):
 
 print(square(random.randint(1, 10)))
 
-sum
+sum_o_squares =
