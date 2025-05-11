@@ -23,12 +23,12 @@ import random
 #     else :
 #         print(str(number) + " is odd  :D")
 
-def isEven(num):
+def isEven():
     return num % 2 == 0
 
 
 for number in numbers :
-    if isEven(number):
+    if isEven():
         print(str(number) + " is even :D")
     else :
         print(str(number) + " is odd  :D")
