@@ -18,6 +18,6 @@ numbers = [3,4,7,5,9,1]
 
 for number in numbers :
     if isEven(number):
-        print("This number is even :D")
+        print("is even :D")
     else :
-        print("This number is odd :D")
+        print(" is odd :D")
