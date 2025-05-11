@@ -23,12 +23,15 @@ import random
 #     else :
 #         print(str(number) + " is odd  :D")
 
+def num():
+    random.randint(1, 6)
+
 def isEven(num):
-    return num % 2 == 0
+    return num() % 2 == 0
 
 
 for number in range (6) :
-    if isEven(num):
+    if isEven(num()):
         print(str(number) + " is even :D")
     else :
         print(str(number) + " is odd  :D")
