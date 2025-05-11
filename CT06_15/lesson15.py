@@ -22,6 +22,7 @@
 #     else :
 #         print(str(number) + " is odd  :D")
 
+import random 
 def square(num):
     return num * num 
 
