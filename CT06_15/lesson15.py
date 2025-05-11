@@ -27,3 +27,4 @@ def square(num):
     return num * num 
 
 print(square(random.randint(1, 10)))
+
