@@ -20,4 +20,4 @@ for number in numbers :
     if isEven(number):
         print("This number is even :D")
     else :
-        print("This number is even :D")
+        print("This number is odd :D")
