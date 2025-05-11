@@ -28,4 +28,5 @@ def square(num):
 
 print(square(random.randint(1, 10)))
 
-sum_o_squares =
+def sum_o_squares(num1,num2):
+    return 
