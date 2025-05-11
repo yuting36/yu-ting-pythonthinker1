@@ -24,7 +24,7 @@ import random
 #         print(str(number) + " is odd  :D")
 
 def isEven(num):
-    return random.randint(1, 10) % 2 == 0
+    return num % 2 == 0
 
 
 for number in range (6) :
