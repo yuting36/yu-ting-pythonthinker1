@@ -15,9 +15,6 @@ import random
 def isEven(num):
     return num % 2 == 0
 
-def randNum():
-     random.randint(1, 10)
-
 numbers = []
 
 for number in numbers :
