@@ -7,4 +7,4 @@ def increment_counter():
     counter += 1
 
 for i in range (3):
-    print(increment_counter)
+    increment_counter()
