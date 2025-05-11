@@ -27,7 +27,7 @@ def isEven():
     return num % 2 == 0
 
 
-for number in range :
+for number in range (6) :
     if isEven():
         print(str(number) + " is even :D")
     else :
