@@ -25,4 +25,5 @@
 def square(num):
     return num * num 
 
-print
+print(square(8
+             ))
