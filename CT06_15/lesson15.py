@@ -18,4 +18,4 @@ numbers = [3,4,7,5,9,1]
 
 for number in numbers :
     if isEven(number):
-        print 9
+        print("")
