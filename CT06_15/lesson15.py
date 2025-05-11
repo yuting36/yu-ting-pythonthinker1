@@ -8,3 +8,5 @@ def increment_counter():
 
 for i in range (3):
     increment_counter()
+
+print(cou)
