@@ -12,21 +12,20 @@
 # print(counter)
 import random
 
+# def isEven(num):
+#     return num % 2 == 0
+
+# numbers = [1,2,4,3,6,8,9,]
+
+# for number in numbers :
+#     if isEven(number):
+#         print(str(number) + " is even :D")
+#     else :
+#         print(str(number) + " is odd  :D")
+
 def isEven(num):
     return num % 2 == 0
 
-numbers = [1,2,4,3,6,8,9,]
-
-for number in numbers :
-    if isEven(number):
-        print(str(number) + " is even :D")
-    else :
-        print(str(number) + " is odd  :D")
-
-def isEven(num):
-    return num % 2 == 0
-
-numbers = [1,2,4,3,6,8,9,]
 
 for number in numbers :
     if isEven(number):
