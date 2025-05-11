@@ -23,7 +23,7 @@ import random
 #     else :
 #         print(str(number) + " is odd  :D")
 
-def isEven():
+def isEven(num):
     return random.randint(1, 10) % 2 == 0
 
 
