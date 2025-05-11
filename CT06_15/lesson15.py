@@ -17,4 +17,4 @@ def isEven(num):
 numbers = [3,4,7,5,9,1]
 
 for number in numbers :
-    isEven
+    isEven(number)
