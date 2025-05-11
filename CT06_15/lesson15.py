@@ -31,4 +31,4 @@ print(square(random.randint(1, 10)))
 def sum_o_squares(num1,num2):
     return square(num1) + square(num2)
 
-print
+print() sum_o_squares
