@@ -14,4 +14,4 @@
 def isEven(num):
     return num % 2 == 0
 
-numbers[3,4,7,5,9,1,]
+numbers[3,4,7,5,9,1]
