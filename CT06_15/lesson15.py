@@ -22,3 +22,5 @@
 #     else :
 #         print(str(number) + " is odd  :D")
 
+def square(num):
+    return
