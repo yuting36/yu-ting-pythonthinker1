@@ -15,7 +15,7 @@ import random
 def isEven(num):
     return num % 2 == 0
 
-numbers = []
+numbers = [1,2,4,3,6,8,9,]
 
 for number in numbers :
     if isEven(number):
