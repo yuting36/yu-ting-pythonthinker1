@@ -18,7 +18,7 @@ def isEven(num):
 def randNum():
      random.randint(1, 10)
 
-numbers = [randNum,rand]
+numbers = [randNum,randNum,randNum]
 
 for number in numbers :
     if isEven(number):
