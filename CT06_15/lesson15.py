@@ -28,7 +28,7 @@ def isEven(num):
 
 
 for number in range (6) :
-    if isEven():
+    if isEven(num):
         print(str(number) + " is even :D")
     else :
         print(str(number) + " is odd  :D")
