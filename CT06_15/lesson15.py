@@ -1,12 +1,12 @@
 # print("Hello from lesson 14")
 
-counter = 0
+# counter = 0
 
-def increment_counter():
-    global counter
-    counter += 1
+# def increment_counter():
+#     global counter
+#     counter += 1
 
-for i in range (3):
-    increment_counter()
+# for i in range (3):
+#     increment_counter()
 
-print(counter)
+# print(counter)
