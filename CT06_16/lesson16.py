@@ -30,7 +30,7 @@ def screen(Length, Breadth):
 def ball():
     ball = turtle.Turtle()
     ball.shape("circle")
-    ball.colo("circle")
+    ball.color("")
 
 
 
