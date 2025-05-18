@@ -13,3 +13,5 @@ def shape(length,sides):
          t.forward(length)
          t.left(360 / sides)
 
+shape()
+
