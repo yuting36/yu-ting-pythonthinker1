@@ -32,4 +32,4 @@ Slength = 300
 Sbreadth = 500
 screen = setup_screen(Slength , Sbreadth)
 
-screen.mai
+screen.mainloop()
