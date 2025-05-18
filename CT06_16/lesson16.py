@@ -46,6 +46,8 @@ ball = createball()
 
 dx = 2
 dy = 2
-move_ball(ball, dx ,dy )
+
+while True:
+    move_ball(ball, dx ,dy )
 
 screen.mainloop()
