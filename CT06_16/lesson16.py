@@ -43,6 +43,7 @@ Sbreadth = 500
 screen = screen(Slength , Sbreadth)
 ball = ball()
 
+bx = 2
 
 move_ball(ball, bx ,by )
 
