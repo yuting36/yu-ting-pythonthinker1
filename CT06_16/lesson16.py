@@ -49,7 +49,7 @@ def check_y(ball ,Slength):
 
 
 Slength  = 600
-Sbreadth = 500
+Sbreadth = 400
 screen = screen(Slength , Sbreadth)
 ball = createball()
 
