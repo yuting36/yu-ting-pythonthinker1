@@ -24,4 +24,5 @@ t = turtle.Turtle()
 
 
 def screen(length, breadth):
-    screen = y
+    screen = t.screen
+    
