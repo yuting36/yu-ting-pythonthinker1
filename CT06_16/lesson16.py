@@ -43,6 +43,6 @@ Sbreadth = 500
 screen = screen(Slength , Sbreadth)
 ball = ball()
 
-
+move_ball(ball,)
 
 screen.mainloop()
