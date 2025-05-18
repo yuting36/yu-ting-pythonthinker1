@@ -43,6 +43,11 @@ def check_x(ball ,Slength):
     if ball.xcor() > (Sbreadth / 2) or ball.xcor() < (-Sbreadth / 2):
             return True
 
+def check_x(ball ,Slength):
+    if ball.xcor() > (Sbreadth / 2) or ball.xcor() < (-Sbreadth / 2):
+            return True
+
+
 Slength  = 300
 Sbreadth = 500
 screen = screen(Slength , Sbreadth)
