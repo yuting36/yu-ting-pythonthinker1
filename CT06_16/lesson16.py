@@ -45,6 +45,6 @@ ball = ball()
 
 dx = 2
 dy = 2
-move_ball(ball, dx ,by )
+move_ball(ball, dx ,dy )
 
 screen.mainloop()
