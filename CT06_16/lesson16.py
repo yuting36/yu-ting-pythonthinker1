@@ -38,6 +38,6 @@ def ball():
 Slength = 300
 Sbreadth = 500
 screen = screen(Slength , Sbreadth)
-ball
+ball 
 
 screen.mainloop()
