@@ -43,7 +43,7 @@ def check_x(ball ,Slength):
     if ball.xcor() > (Sbreadth / 2) or ball.xcor() < (-Sbreadth / 2):
             return True
 
-Slength = 300
+Slength  = 300
 Sbreadth = 500
 screen = screen(Slength , Sbreadth)
 ball = createball()
@@ -53,5 +53,7 @@ dy = 2
 
 while True:
     move_ball(ball, dx ,dy )
+    if check_x(createball, Slength):
+         dx
 
 screen.mainloop()
