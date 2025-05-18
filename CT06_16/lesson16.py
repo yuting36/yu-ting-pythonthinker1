@@ -28,7 +28,7 @@ def screen(Length, Breadth):
     return screen
 
 def move_ball(ball, dx, dy):
-    ball.setx(ball.xcor() + dx)
+    setx(ball.xcor() + dx)
     ball.sety(ball.ycor() + dy)
     
 
