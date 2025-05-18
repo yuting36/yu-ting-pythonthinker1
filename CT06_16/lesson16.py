@@ -2,4 +2,4 @@ print("Hello from lesson 16")
  
 import turtle
 
-window = turtle.screen
+window = turtle.Screencreen
