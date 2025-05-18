@@ -30,6 +30,6 @@ def screen(Length, Breadth):
 
 Slength = 300
 Sbreadth = 500
-screen = setup_screen(Slength , Sbreadth)
+screen = screen(Slength , Sbreadth)
 
 screen.mainloop()
