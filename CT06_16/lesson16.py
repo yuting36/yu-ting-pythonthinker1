@@ -15,3 +15,4 @@ def shape(length,sides):
 
 shape()
 
+window.mainloop
