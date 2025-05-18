@@ -37,6 +37,7 @@ def createball():
     ball.shape("circle")
     ball.color("black")
     ball.penup()
+    return ball
 
 Slength = 300
 Sbreadth = 500
