@@ -22,22 +22,22 @@ t = turtle.Turtle()
 
 
 
-# def screen(Length, Breadth):
-#     screen = t.screen
-#     screen.setup(Length , Breadth)
-#     return screen
+def screen(Length, Breadth):
+    screen = t.screen
+    screen.setup(Length , Breadth)
+    return screen
 
-# def ball():
-#     ball = turtle.Turtle()
-#     ball.shape("circle")
-#     ball.color("green")
-#     ball.penup()
+def ball():
+    ball = turtle.Turtle()
+    ball.shape("circle")
+    ball.color("green")
+    ball.penup()
 
 
 
-# Slength = 300
-# Sbreadth = 500
-# screen = screen(Slength , Sbreadth)
-# ball = ball()
+Slength = 300
+Sbreadth = 500
+screen = screen(Slength , Sbreadth)
+ball = ball()
 
-# screen.mainloop()
+screen.mainloop()
