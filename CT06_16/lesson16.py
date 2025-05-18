@@ -29,7 +29,7 @@ def screen(Length, Breadth):
 
 def ball():
     ball = turtle.Turtle()
-    
+    ball.c
 
 
 
