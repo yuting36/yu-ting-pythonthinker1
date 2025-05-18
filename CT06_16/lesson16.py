@@ -11,4 +11,4 @@ def shape(length,sides):
     t.seth(90)
     for i in range (4):
          t.forward(length)
-         t.left()
+         t.left( 180 - 360 / siw)
