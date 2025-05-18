@@ -59,8 +59,8 @@ dy = 2
 while True:
     move_ball(ball, dx ,dy )
     if check_x(ball, Slength):
-         dx*= -1
+         dx *= -1
     if check_y(ball, Slength):
-         dx*= -1
+         dy *= -1
 
 screen.mainloop()
