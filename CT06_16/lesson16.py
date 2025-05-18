@@ -32,7 +32,7 @@ def move_ball(ball, dx, dy):
     ball.sety(ball.ycor() + dy)
     
 
-def ball():
+def createball():
     ball = turtle.Turtle()
     ball.shape("circle")
     ball.color("black")
@@ -41,7 +41,7 @@ def ball():
 Slength = 300
 Sbreadth = 500
 screen = screen(Slength , Sbreadth)
-ball = ball()
+ball = createball()
 
 dx = 2
 dy = 2
