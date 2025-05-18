@@ -13,6 +13,8 @@ def shape(length,sides):
          t.forward(length)
          t.left(360 / sides)
 
-
+num = 1
+while num != 10:
+    sha
 
 window.mainloop()
