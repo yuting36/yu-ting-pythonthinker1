@@ -13,9 +13,9 @@ def shape(length,sides):
          t.forward(length)
          t.left(360 / sides)
 
-num = 1
+num = 0.1
 while num != 10:
     shape(num,100)
-    num += 1
+    num += 0.1
 
 window.mainloop()
