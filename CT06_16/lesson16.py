@@ -28,7 +28,7 @@ def screen(Length, Breadth):
     return screen
 
 def move_ball(ball, dx, dy):
-    ball.setx(ball.xcor())
+    ball.setx(ball.xcor() + dx)
 
 def ball():
     ball = turtle.Turtle()
