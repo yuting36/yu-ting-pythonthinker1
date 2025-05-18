@@ -26,3 +26,5 @@ t = turtle.Turtle()
 def screen(Length, Breadth):
     screen = t.screen
     screen.setup(Length , Breadth)
+    return screen
+
