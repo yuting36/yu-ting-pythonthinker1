@@ -25,4 +25,4 @@ t = turtle.Turtle()
 
 def screen(length, breadth):
     screen = t.screen
-    screen.setup(width=600 , height=400)
+    screen.setup()
