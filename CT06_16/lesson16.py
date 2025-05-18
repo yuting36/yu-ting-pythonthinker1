@@ -44,7 +44,7 @@ def check_x(ball ,Slength):
             return True
 
 def check_y(ball ,Slength):
-    if ball.ycor() > (Sbreadth / 2) or ball.xcor() < (-Sbreadth / 2):
+    if ball.ycor() > (Slength / 2) or ball.ycor() < (-Slength / 2):
             return True
 
 
