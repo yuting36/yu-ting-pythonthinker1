@@ -53,7 +53,7 @@ dy = 2
 
 while True:
     move_ball(ball, dx ,dy )
-    if check_x(createball, Slength):
+    if check_x(ball, Slength):
          dx*= -1
 
 screen.mainloop()
