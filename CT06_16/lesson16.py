@@ -15,6 +15,7 @@ def shape(length,sides):
 
 num = 1
 while num != 10:
-    shape(num)
+    shape(num,100)
+    num += 1
 
 window.mainloop()
