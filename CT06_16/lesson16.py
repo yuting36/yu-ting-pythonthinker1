@@ -23,6 +23,6 @@ t = turtle.Turtle()
 # print("sucess :D")
 
 
-def screen(length, breadth):
+def screen(Length, Breadth):
     screen = t.screen
     screen.setup(length , breadth)
