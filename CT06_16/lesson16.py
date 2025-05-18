@@ -13,6 +13,6 @@ def shape(length,sides):
          t.forward(length)
          t.left(360 / sides)
 
-Z
+
 
 window.mainloop()
