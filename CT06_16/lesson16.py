@@ -39,6 +39,10 @@ def createball():
     ball.penup()
     return ball
 
+def check_x(ball ,Slength):
+    if ball.xcor() > (Sbreadth / 2) or ball.xcor() < (-Sbreadth / 2):
+         p
+
 Slength = 300
 Sbreadth = 500
 screen = screen(Slength , Sbreadth)
