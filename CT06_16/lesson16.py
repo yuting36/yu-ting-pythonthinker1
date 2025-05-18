@@ -13,3 +13,6 @@ print("Hello from lesson 16")
 12
 13
 14
+15
+16
+17
