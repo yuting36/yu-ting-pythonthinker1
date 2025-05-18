@@ -21,3 +21,7 @@ t = turtle.Turtle()
 # window.mainloop()
 
 # print("sucess :D")
+
+
+def screen(length, breadth):
+    screen = y
