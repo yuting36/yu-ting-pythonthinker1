@@ -41,7 +41,7 @@ def createball():
 
 def check_x(ball ,Slength):
     if ball.xcor() > (Sbreadth / 2) or ball.xcor() < (-Sbreadth / 2):
-         print(hi)
+            return
 
 Slength = 300
 Sbreadth = 500
