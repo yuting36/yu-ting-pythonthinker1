@@ -19,3 +19,5 @@ while num != 10:
     num += 0.1
 
 window.mainloop()
+
+print("sucs")
