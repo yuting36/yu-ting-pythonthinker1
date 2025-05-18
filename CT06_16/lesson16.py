@@ -15,6 +15,6 @@ def shape(length,sides):
 
 num = 1
 while num != 10:
-    sha
+    shape(num)
 
 window.mainloop()
