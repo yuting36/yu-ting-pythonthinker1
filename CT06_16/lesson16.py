@@ -13,7 +13,6 @@ def shape(length,sides):
          t.forward(length)
          t.left(360 / sides)
 
-shape(50,100000000
-      )
+shape(50,100000000)
 
 window.mainloop()
