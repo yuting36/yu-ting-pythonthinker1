@@ -43,3 +43,9 @@ print("Hello from lesson 16")
 42
 43
 44
+45
+46
+47
+48
+49
+50
