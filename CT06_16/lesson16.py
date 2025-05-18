@@ -30,4 +30,4 @@ def screen(Length, Breadth):
 
 Slength = 300
 Sbreadth = 500
-screen = setup
+screen = setup_screen
