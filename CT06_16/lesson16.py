@@ -31,7 +31,7 @@ def ball():
     ball = turtle.Turtle()
     ball.shape("circle")
     ball.color("green")
-    ball.shape("circle")
+    ball.penup("circle")
 
 
 
