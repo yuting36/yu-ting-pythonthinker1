@@ -44,7 +44,7 @@ screen = screen(Slength , Sbreadth)
 ball = ball()
 
 bx = 2
-
+by = 2
 move_ball(ball, bx ,by )
 
 screen.mainloop()
