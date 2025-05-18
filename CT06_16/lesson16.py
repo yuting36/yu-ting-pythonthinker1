@@ -20,4 +20,4 @@ while num != 10:
 
 window.mainloop()
 
-print("sucs")
+print("sucess :D")
