@@ -27,6 +27,9 @@ def screen(Length, Breadth):
     screen.setup(Length , Breadth)
     return screen
 
+def move_ball(ball, dx, dy):
+    ball_
+
 def ball():
     ball = turtle.Turtle()
     ball.shape("circle")
