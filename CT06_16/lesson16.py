@@ -12,3 +12,5 @@ def shape(length,sides):
     for i in range (4):
          t.forward(length)
          t.left( 180 - 360 / sides)
+
+print
